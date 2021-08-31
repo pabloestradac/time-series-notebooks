@@ -1,2 +1,2 @@
-# Time_Series_Forecasting_Stata
-Time Series Forecasting in Stata + Jupyter Notebook
+# Time Series Analysis in Stata
+Time Series Analysis in Stata + Jupyter Notebook
